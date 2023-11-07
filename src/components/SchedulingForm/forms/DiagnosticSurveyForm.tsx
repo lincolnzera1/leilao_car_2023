@@ -36,8 +36,7 @@ const DiagnosticSurveyForm = () => {
                 />
 
                 <button className="button-form">
-                    {/* Entrar em contato */}
-                    <a href="https://web.whatsapp.com/" target="_blank">teste</a>
+                    Entrar em contato
                 </button>
             </form>
         </div>
